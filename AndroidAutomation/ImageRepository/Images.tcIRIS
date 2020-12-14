@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{6C11B427-876D-4DB5-90C6-8E811BE59EFF}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="Images" />
+	<testData />
+	<data>
+		<item caption="radioButton_Yes" moniker="{7EE89911-1926-4AEB-9F8C-C133D89A5886}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\radioButton_Yes.png" initialHash="A7D37551" selectionLeft="387" selectionTop="1578" selectionWidth="261" selectionHeight="83" initialLeft="387" initialTop="1578" initialWidth="261" initialHeight="83" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="number_1" moniker="{77E35723-C58C-4E66-8974-94AFCE2D39E8}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\number_1.png" initialHash="69F253C2" selectionLeft="39" selectionTop="1443" selectionWidth="183" selectionHeight="157" initialLeft="39" initialTop="1443" initialWidth="183" initialHeight="157" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="number_2" moniker="{834D2F89-2896-4939-A6DE-0685EF081C4B}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\number_2.png" initialHash="877BEE74" selectionLeft="313" selectionTop="1461" selectionWidth="222" selectionHeight="165" initialLeft="313" initialTop="1461" initialWidth="222" initialHeight="165" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="number_3" moniker="{DD87E00F-EEAE-4EDE-ABE1-800EF2C69886}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\number_3.png" initialHash="591B14B0" selectionLeft="600" selectionTop="1465" selectionWidth="230" selectionHeight="161" initialLeft="600" initialTop="1465" initialWidth="230" initialHeight="161" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="Button_ContactAllow" moniker="{9AE9F2AF-26E0-43F6-8C97-0FE2021F8ACC}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Button_ContactAllow.png" initialHash="27132B30" selectionLeft="65" selectionTop="1043" selectionWidth="948" selectionHeight="140" initialLeft="65" initialTop="1043" initialWidth="948" initialHeight="140" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="Button_PhoneCallAllow" moniker="{9084C647-B8ED-40E4-B30F-9EFF3365B558}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Button_PhoneCallAllow.png" initialHash="6BB5F4AC" selectionLeft="65" selectionTop="1043" selectionWidth="948" selectionHeight="140" initialLeft="65" initialTop="1043" initialWidth="948" initialHeight="140" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="Button_NavigationAllow" moniker="{C9B4C1A6-04EC-43A3-A31F-26F0D28E86C4}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Button_NavigationAllow.png" initialHash="85DDBD2C" selectionLeft="65" selectionTop="1113" selectionWidth="948" selectionHeight="139" initialLeft="65" initialTop="1113" initialWidth="948" initialHeight="139" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="callScreen" moniker="{51AB7884-0BBA-4695-BEA3-633300C1AFE4}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\callScreen.png" initialHash="F0204C87" selectionLeft="0" selectionTop="0" selectionWidth="1078" selectionHeight="2161" initialLeft="0" initialTop="0" initialWidth="1078" initialHeight="2161" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="Button_CallAllow_Dark" moniker="{D7A5A479-3637-492C-9E73-BFF61ADE03FC}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Button_CallAllow_Dark.png" initialHash="6A71A8C9" selectionLeft="65" selectionTop="1043" selectionWidth="948" selectionHeight="140" initialLeft="65" initialTop="1043" initialWidth="948" initialHeight="140" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="CallingContact" moniker="{6740E054-70E0-40D0-A551-55D6FFB6DA81}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\CallingContact.png" initialHash="3F8BDC93" selectionLeft="35" selectionTop="83" selectionWidth="982" selectionHeight="456" initialLeft="35" initialTop="83" initialWidth="982" initialHeight="456" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="CallingButtons" moniker="{99FAFE6F-4DE5-449D-AFFB-AC0EEB45CC2C}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\CallingButtons.png" initialHash="121044CE" selectionLeft="13" selectionTop="809" selectionWidth="1035" selectionHeight="1178" initialLeft="13" initialTop="809" initialWidth="1035" initialHeight="1178" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+		<item caption="ImageButton_EndCall" moniker="{944BF950-AD51-42F8-9803-BB52AA9F1B20}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ImageButton_EndCall.png" initialHash="5CBD7F13" selectionLeft="461" selectionTop="1791" selectionWidth="161" selectionHeight="161" initialLeft="461" initialTop="1791" initialWidth="161" initialHeight="161" pixelTolerance="0" colorTolerance="0" deviceName="Pixel 3a XL" />
+		</item>
+	</data>
+</Root>

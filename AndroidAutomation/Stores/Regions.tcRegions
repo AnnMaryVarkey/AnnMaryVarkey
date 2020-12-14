@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="14.0">
+	<children>
+		<child name="ImageView_AppsCalender" key="{99BDA4A6-BE7A-4743-9AE1-AA8343E9B927}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ImageView_AppsCalender" ID="{99BDA4A6-BE7A-4743-9AE1-AA8343E9B927}" FileName="Regions\ImageView_appsCalender.png" Update="False" />
+		</child>
+		<child name="ImageView_AppsMap" key="{7BE13B10-C963-4DFC-9D57-16DD5A077932}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ImageView_AppsMap" ID="{7BE13B10-C963-4DFC-9D57-16DD5A077932}" FileName="Regions\ImageView_appsMap.png" Update="False" />
+		</child>
+		<child name="ImageView_AppsVolumeUP" key="{C9990D3D-68E1-47C5-A52B-0D8E6CE96D0B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ImageView_AppsVolumeUP" ID="{C9990D3D-68E1-47C5-A52B-0D8E6CE96D0B}" FileName="Regions\ImageView_appsVolumeUP.png" Update="False" />
+		</child>
+		<child name="ImageView_AppsVolumeDown" key="{AB6938B1-9FAD-4619-8F3E-E28908365E3A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ImageView_AppsVolumeDown" ID="{AB6938B1-9FAD-4619-8F3E-E28908365E3A}" FileName="Regions\ImageView_appsVolumeDown.png" Update="False" />
+		</child>
+		<child name="ImageView_AppsExit" key="{278704B8-E8D5-4306-BC8E-6BA8046E6434}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ImageView_AppsExit" ID="{278704B8-E8D5-4306-BC8E-6BA8046E6434}" FileName="Regions\ImageView_appsExit.png" Update="False" />
+		</child>
+		<child name="ImageButton_AppsAll" key="{0471631A-8763-4906-8AF4-8F46369BD10E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ImageButton_AppsAll" ID="{0471631A-8763-4906-8AF4-8F46369BD10E}" FileName="Regions\ImageButton_appsAll.png" Update="False" />
+		</child>
+		<child name="ImageButton_AppSettings" key="{39643D81-5AB7-48E0-874B-6C05F02FC637}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ImageButton_AppSettings" ID="{39643D81-5AB7-48E0-874B-6C05F02FC637}" FileName="Regions\ImageButton_appSettings.png" Update="False" />
+		</child>
+		<child name="ImageView_Pause" key="{9FB25050-BEAF-499B-8F46-67AD62C7969D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ImageView_Pause" ID="{9FB25050-BEAF-499B-8F46-67AD62C7969D}" FileName="Regions\ImageView_Pause.png" Update="False" />
+		</child>
+		<child name="ImageView_Play" key="{67FB0366-A4D8-4E7D-8D12-73A2D2FE19DA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ImageView_Play" ID="{67FB0366-A4D8-4E7D-8D12-73A2D2FE19DA}" FileName="Regions\ImageView_Play.png" Update="False" />
+		</child>
+	</children>
+</Root>

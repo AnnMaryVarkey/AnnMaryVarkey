@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="CommonFunctions" key="{F9D8B60C-531A-4AAE-AD01-35D95AB3B51C}" path="CommonFunctions.js" />
+		<child name="Verify_Active_Call_Screen" key="{F13848B4-C0AA-41E7-A9C5-4E7C0DC452FC}" path="Verify_Active_Call_Screen.js" />
+		<child name="Objects" key="{0CBABF5A-9D83-47DE-B479-8ADB80B5CDE4}" path="Objects.js" />
+		<child name="Verify_Shortcut_Screen" key="{297AC6B3-13A5-47AF-86BC-308624B9BFD7}" path="Verify_Shortcut_Screen.js" />
+		<child name="Verify_Play_Music" key="{E971B649-8F3C-41FF-94D8-A4335B2D6532}" path="Verify_Play_Music.js" />
+	</children>
+</Root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{730DD65B-DCB4-4DA4-A395-1CFF327D8340}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{E16B11FA-A2BB-44FE-8AEC-9EC507AF5752}">
+			<config nodeName="AutoMate_21110_v2_2_5_minApi21" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Android">
+					<param name="Android" parameters="" workFolder="" apkFileName="C:\Ann\hackathone\TestApp\AutoMate-21110-v2.2.5-minApi21.apk" deploy="True" keepDataAndCache="False" grantPermissions="False" signAPKWithCustom="False" keystorePath="" alias="" keystorePassword="" keyPassword="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{AFBBB784-FB53-4641-8B04-04CDC3DEF381}">
+			<config nodeName="YouTubeMusic_40751240_v4_07_51" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Android">
+					<param name="Android" parameters="" workFolder="" apkFileName="C:\Ann\hackathone\TestApp\YouTubeMusic-40751240-v4.07.51.apk" deploy="True" keepDataAndCache="False" grantPermissions="False" signAPKWithCustom="False" keystorePath="" alias="" keystorePassword="" keyPassword="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

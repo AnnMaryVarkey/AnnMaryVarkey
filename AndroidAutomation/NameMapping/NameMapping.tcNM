@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Mobile" Key="{07B44D87-E6E0-43D7-ABBF-756758F1ACA5}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Mobile" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Device" Key="{1D5A3ABB-0751-48FF-89A8-A1297E809C88}">
+						<Properties>
+							<Property Name="OSType">
+								<Value Value="Android" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Process_bitspice_automate" Key="{DACD3955-D79D-4816-A52E-041952D3009C}">
+								<Properties>
+									<Property Name="ProcessName">
+										<Value Value="com.bitspice.automate" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Layout_NO_ID" Key="{6AF70676-2291-4F03-8C9B-544E14156424}">
+										<Image FileName="1107259912" Left="0" Top="0" Right="1080" Bottom="2040" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Layout" />
+											</Property>
+											<Property Name="ViewID">
+												<Value Value="NO_ID" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="View_decor_content_parent" Key="{9DDBECBB-680B-4793-8730-85B3B78644BF}">
+												<Image FileName="1107259912" Left="0" Top="0" Right="1080" Bottom="2040" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="View" />
+													</Property>
+													<Property Name="ViewID">
+														<Value Value="decor_content_parent" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Layout_content" Key="{BB5B09B7-09C1-4C58-AC78-540759A596B1}">
+														<Image FileName="1107259912" Left="0" Top="0" Right="1080" Bottom="2040" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Layout" />
+															</Property>
+															<Property Name="ViewID">
+																<Value Value="content" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="View_coordinator_layout_slide" Key="{F995A4BE-3C57-4785-A195-F2C180C3B512}">
+																<Image FileName="1107259912" Left="0" Top="0" Right="1080" Bottom="2040" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="View" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="coordinator_layout_slide" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Layout_navigation_view" Key="{9DCED703-36F9-43BD-AC28-AF8BA80DE362}">
+																		<Image FileName="1107259912" Left="0" Top="1660" Right="1080" Bottom="2040" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Layout" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="navigation_view" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Layout_NO_ID" Key="{A59295C9-AE05-4EF7-BB80-E1D35650D08B}">
+																				<Image FileName="1107259912" Left="0" Top="1860" Right="1080" Bottom="2040" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Layout" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="NO_ID" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ImageButton_button_next" Key="{9C6DDA8D-8DAF-410A-93F8-7C1B697020A2}">
+																						<Image FileName="1107259912" Left="900" Top="1860" Right="1040" Bottom="2000" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="ImageButton" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="button_next" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="View_drawer_layout" Key="{233690D0-90ED-44AA-9199-0F18DB17D42E}">
+																<Image FileName="1135015949" Left="0" Top="0" Right="1080" Bottom="2040" />
+																<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="View" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="drawer_layout" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Layout_NO_ID" Key="{7A32818E-4333-45A3-B272-6C741E5B4281}">
+																		<Image FileName="1135015949" Left="0" Top="0" Right="1080" Bottom="2040" />
+																		<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Layout" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="NO_ID" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Layout_bottom_navigation" Key="{14C251A7-82E0-4E3F-B197-105A4DEE677D}">
+																				<Image FileName="1135015949" Left="0" Top="1900" Right="1080" Bottom="2040" />
+																				<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Layout" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="bottom_navigation" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Layout_NO_ID" Key="{A509129F-D3E0-4E18-998C-CECED8D8D756}">
+																						<Image FileName="1135015949" Left="0" Top="1900" Right="1080" Bottom="2040" />
+																						<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Layout" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="NO_ID" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ImageView_bottom_navigation_small_item_icon" Key="{021203C9-0EDF-449E-ADA8-1FCACC034A11}">
+																								<Image FileName="1135015949" Left="731" Top="1940" Right="791" Bottom="2000" />
+																								<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="bottom_navigation_small_item_icon" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="4" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ImageView_bottom_navigation_small_item_icon2" Key="{7EFCB377-BA20-4F9F-A138-AE90EAB7135B}">
+																								<Image FileName="1677349494" Left="68" Top="1940" Right="128" Bottom="2000" />
+																								<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="bottom_navigation_small_item_icon" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ImageView_bottom_navigation_small_item_icon3" Key="{9049E5E4-9747-4574-A82C-5CE464790A73}">
+																								<Image FileName="1677349494" Left="289" Top="1940" Right="349" Bottom="2000" />
+																								<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="bottom_navigation_small_item_icon" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="2" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ImageView_bottom_navigation_small_item_icon4" Key="{3AD85190-9155-44BB-BBFE-AD1C75DE28A9}">
+																								<Image FileName="1719802172" Left="952" Top="1940" Right="1012" Bottom="2000" />
+																								<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="bottom_navigation_small_item_icon" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="5" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ImageView_bottom_navigation_small_item_icon5" Key="{3119A22E-49C5-4127-98B1-188A270A8B0C}">
+																								<Image FileName="-516072581" Left="510" Top="1940" Right="570" Bottom="2000" />
+																								<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="bottom_navigation_small_item_icon" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="3" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="View_main_content" Key="{4914036D-FD7E-4837-ABC9-9D67948C8883}">
+																				<Image FileName="-605030963" Left="0" Top="0" Right="1080" Bottom="1900" />
+																				<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="main_content" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="View_view_pager" Key="{4083933A-2E5E-4291-BA7D-1434A1E6E8E8}">
+																						<Image FileName="-605030963" Left="0" Top="-150" Right="1080" Bottom="1900" />
+																						<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="view_pager" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="View_NO_ID" Key="{D0607481-11CB-43FE-B425-E51EC56F75E5}">
+																								<Image FileName="-605030963" Left="0" Top="-150" Right="1080" Bottom="1900" />
+																								<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="NO_ID" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="2" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Layout_phone_top_bar_cardview" Key="{0F13F7F7-44E3-41EA-A3E0-C5C0F5E41FC7}">
+																										<Image FileName="-605030963" Left="12" Top="150" Right="1068" Bottom="1900" />
+																										<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="phone_top_bar_cardview" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="HorizontalScrollView_phone_search_tabs" Key="{2CCE2602-ABDC-49C8-BA69-57406690DDE1}">
+																												<Image FileName="-605030963" Left="17" Top="288" Right="1063" Bottom="438" />
+																												<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="HorizontalScrollView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="phone_search_tabs" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="ImageView_NO_ID" Key="{5E658833-0DB9-4D32-A67E-1C4AF6DB2065}">
+																														<Image FileName="-605030963" Left="540" Top="288" Right="1063" Bottom="433" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="ImageView" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="NO_ID" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="2" Type="0" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																													<Child Name="ImageView_NO_ID2" Key="{B3D4801D-F2FA-4079-81CF-B3CA049C4AE4}">
+																														<Image FileName="333417437" Left="17" Top="288" Right="540" Bottom="433" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="ImageView" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="NO_ID" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="1" Type="0" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="View_phone_viewpager" Key="{5CC1297C-D243-4D7A-9C32-7399A8D38E0A}">
+																												<Image FileName="-21524625" Left="17" Top="438" Right="1063" Bottom="1900" />
+																												<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="View" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="phone_viewpager" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="Layout_phone_list_container" Key="{A740FA57-3BCC-42E7-AD7F-D99F3D0B49BD}">
+																														<Image FileName="-21524625" Left="17" Top="438" Right="1063" Bottom="1900" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Layout" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="phone_list_container" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="2" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="View_phone_list" Key="{DBA0EED2-793A-42B4-862D-EAB51D940033}">
+																																<Image FileName="-21524625" Left="17" Top="438" Right="1063" Bottom="1900" />
+																																<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="View" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="phone_list" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="Layout_contacts_holder" Key="{E28C0978-4CFE-4D17-8D62-9C3192062A79}">
+																																		<Image FileName="-21524625" Left="17" Top="438" Right="1063" Bottom="613" />
+																																		<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																		<Properties>
+																																			<Property Name="ObjectType">
+																																				<Value Value="Layout" />
+																																			</Property>
+																																			<Property Name="ViewID">
+																																				<Value Value="contacts_holder" />
+																																			</Property>
+																																			<Property Name="Index">
+																																				<Value Value="1" Type="0" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="Layout_NO_ID" Key="{05249C0D-3355-44A2-BD42-4FC3065C8ED4}">
+																																				<Image FileName="-21524625" Left="212" Top="498" Right="933" Bottom="552" />
+																																				<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																				<Properties>
+																																					<Property Name="ObjectType">
+																																						<Value Value="Layout" />
+																																					</Property>
+																																					<Property Name="ViewID">
+																																						<Value Value="NO_ID" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="TextView_111" Key="{149CA0B9-1345-46B1-85A8-EED53DA6DE9F}">
+																																						<Image FileName="-21524625" Left="212" Top="498" Right="933" Bottom="552" />
+																																						<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																																						<Properties>
+																																							<Property Name="ObjectType">
+																																								<Value Value="TextView" />
+																																							</Property>
+																																							<Property Name="ViewID">
+																																								<Value Value="contact_name" />
+																																							</Property>
+																																							<Property Name="ControlText">
+																																								<Value Value="111" />
+																																							</Property>
+																																						</Properties>
+																																					</Child>
+																																					<Child Name="TextView_Permissions_required" Key="{0FA9623B-3C6E-4746-B996-3AC15E8E410A}">
+																																						<Image FileName="-261779314" Left="212" Top="498" Right="933" Bottom="552" />
+																																						<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																																						<Properties>
+																																							<Property Name="ObjectType">
+																																								<Value Value="TextView" />
+																																							</Property>
+																																							<Property Name="ViewID">
+																																								<Value Value="contact_name" />
+																																							</Property>
+																																							<Property Name="ControlText">
+																																								<Value Value="Permissions required" />
+																																							</Property>
+																																						</Properties>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																													<Child Name="Layout_phone_list_container2" Key="{AF9092F0-3BDF-491C-A6A4-730726FB2396}">
+																														<Image FileName="1556144510" Left="17" Top="438" Right="1063" Bottom="1900" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Layout" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="phone_list_container" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="1" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="View_phone_list" Key="{B693D038-8BEB-4FA6-9E18-32B7999F7F15}">
+																																<Image FileName="1556144510" Left="17" Top="438" Right="1063" Bottom="613" />
+																																<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="View" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="phone_list" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="Layout_contacts_holder" Key="{40E61386-3F72-4032-9262-C59216EE47A8}">
+																																		<Image FileName="1556144510" Left="17" Top="438" Right="1063" Bottom="613" />
+																																		<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																		<Properties>
+																																			<Property Name="ObjectType">
+																																				<Value Value="Layout" />
+																																			</Property>
+																																			<Property Name="ViewID">
+																																				<Value Value="contacts_holder" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="Layout_NO_ID" Key="{98C99C9D-2463-4F33-85E2-F4E9D8A83BA4}">
+																																				<Image FileName="1556144510" Left="212" Top="472" Right="933" Bottom="578" />
+																																				<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																				<Properties>
+																																					<Property Name="ObjectType">
+																																						<Value Value="Layout" />
+																																					</Property>
+																																					<Property Name="ViewID">
+																																						<Value Value="NO_ID" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="TextView_Tap_to_load_contacts" Key="{1DF025AF-7630-4967-802B-1B442BE2697A}">
+																																						<Image FileName="1556144510" Left="212" Top="526" Right="933" Bottom="578" />
+																																						<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																																						<Properties>
+																																							<Property Name="ObjectType">
+																																								<Value Value="TextView" />
+																																							</Property>
+																																							<Property Name="ViewID">
+																																								<Value Value="contact_description" />
+																																							</Property>
+																																							<Property Name="ControlText">
+																																								<Value Value="Tap to load contacts" />
+																																							</Property>
+																																						</Properties>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="ImageView_phone_button_call" Key="{362AFA3E-5FFB-42BA-A3A0-2C7A54CFEA9C}">
+																												<Image FileName="-1285842822" Left="938" Top="155" Right="1063" Bottom="280" />
+																												<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="ImageView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="phone_button_call" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="EditText_phone_dialer_eidttext" Key="{AFE3E9B6-EA3E-44C0-AAA3-97D62FA33F63}">
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="EditText" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="phone_dialer_eidttext" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="ImageButton_phone_button_dialer" Key="{0C158514-B4DE-4B78-A965-9BEBDB9BFED0}">
+																										<Image FileName="-416669217" Left="440" Top="1670" Right="640" Bottom="1900" />
+																										<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageButton" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="phone_button_dialer" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="View_NO_ID2" Key="{04FA0F14-1D75-4297-B4EF-29E41EE0C4D1}">
+																								<Image FileName="-2108127909" Left="0" Top="-150" Right="1080" Bottom="1900" />
+																								<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="NO_ID" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Layout_shortcuts_list_holder" Key="{FE36D438-4609-4ADC-B5AA-1A96028C09FA}">
+																										<Image FileName="-2108127909" Left="12" Top="150" Right="1068" Bottom="1900" />
+																										<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="shortcuts_list_holder" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="View_shortcuts_recyclerview" Key="{D971AEE8-755F-4FA9-8403-1B4F8632B431}">
+																												<Image FileName="-2108127909" Left="17" Top="163" Right="1063" Bottom="1900" />
+																												<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="View" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="shortcuts_recyclerview" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="Layout_apps_container" Key="{D95E58DF-0EF6-4A4E-B5E3-1FA2286488C4}">
+																														<Image FileName="-2108127909" Left="17" Top="163" Right="1063" Bottom="338" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Layout" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="apps_container" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="1" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="TextView_Calendar" Key="{E4DC5E9E-911B-4FAD-9E88-95FF5F6E740A}">
+																																<Image FileName="-2108127909" Left="212" Top="223" Right="372" Bottom="277" />
+																																<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="TextView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_title" />
+																																	</Property>
+																																	<Property Name="ControlText">
+																																		<Value Value="Calendar" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																															<Child Name="ImageView_apps_icon" Key="{CD873522-51C5-4C4F-A2A1-94C838D3E86C}">
+																																<Image FileName="670969468" Left="52" Top="188" Right="177" Bottom="313" />
+																																<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="ImageView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_icon" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																													<Child Name="Layout_apps_container2" Key="{F32985F9-3B3F-460F-9F26-05DB2366D5FB}">
+																														<Image FileName="1278594461" Left="17" Top="338" Right="1063" Bottom="513" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Layout" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="apps_container" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="2" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="TextView_Google_Play_Music" Key="{E87EBD2E-2DCA-455D-9AE1-68ED4DAE3142}">
+																																<Image FileName="1278594461" Left="212" Top="398" Right="543" Bottom="452" />
+																																<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="TextView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_title" />
+																																	</Property>
+																																	<Property Name="ControlText">
+																																		<Value Value="Google Play Music" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																													<Child Name="Layout_apps_container3" Key="{D127D4CA-919B-4EF5-BEB9-CE6523799556}">
+																														<Image FileName="1278594461" Left="17" Top="513" Right="1063" Bottom="688" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Layout" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="apps_container" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="3" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="TextView_Maps" Key="{BAB8AF15-0AD3-4978-A12E-9FA3C55389D8}">
+																																<Image FileName="1278594461" Left="212" Top="573" Right="312" Bottom="627" />
+																																<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="TextView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_title" />
+																																	</Property>
+																																	<Property Name="ControlText">
+																																		<Value Value="Maps" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																															<Child Name="ImageView_apps_icon" Key="{1CEFAEC8-6C25-4E9B-A564-C679CBC22CC2}">
+																																<Image FileName="-515881439" Left="52" Top="538" Right="177" Bottom="663" />
+																																<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="ImageView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_icon" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																													<Child Name="Layout_apps_container4" Key="{9764B6F9-8943-44CE-B0F0-4028AF8739F9}">
+																														<Image FileName="1415117728" Left="17" Top="688" Right="1063" Bottom="863" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Layout" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="apps_container" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="4" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="TextView_Volume_Up" Key="{1D05A4BD-C769-4B82-9E30-F7377B9D4F3C}">
+																																<Image FileName="1415117728" Left="212" Top="748" Right="405" Bottom="802" />
+																																<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="TextView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_title" />
+																																	</Property>
+																																	<Property Name="ControlText">
+																																		<Value Value="Volume Up" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																															<Child Name="ImageView_apps_icon" Key="{ECFD9181-8B2F-4AEA-A36B-5D7A1AFB7E29}">
+																																<Image FileName="368017072" Left="52" Top="713" Right="177" Bottom="838" />
+																																<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="ImageView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_icon" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																													<Child Name="Layout_apps_container5" Key="{5A2A898F-7D5D-4209-B33C-6B6F8A3A55C8}">
+																														<Image FileName="207118417" Left="17" Top="863" Right="1063" Bottom="1038" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Layout" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="apps_container" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="5" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="TextView_Volume_Down" Key="{BAD12A93-1C69-4166-9F1D-04FE16248D4D}">
+																																<Image FileName="207118417" Left="212" Top="923" Right="458" Bottom="977" />
+																																<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="TextView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_title" />
+																																	</Property>
+																																	<Property Name="ControlText">
+																																		<Value Value="Volume Down" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																															<Child Name="ImageView_apps_icon" Key="{D05E48FE-DC90-4F23-8201-98CEFD746028}">
+																																<Image FileName="207118417" Left="52" Top="888" Right="177" Bottom="1013" />
+																																<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="ImageView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_icon" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																													<Child Name="Layout_apps_container6" Key="{9634C9E3-54E8-4365-B6FA-669AB4DE4219}">
+																														<Image FileName="207118417" Left="17" Top="1038" Right="1063" Bottom="1213" />
+																														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Layout" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="apps_container" />
+																															</Property>
+																															<Property Name="Index">
+																																<Value Value="6" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="TextView_Exit" Key="{BCEDDA9A-FE4D-4DDD-9587-5FAADBFBCAE7}">
+																																<Image FileName="207118417" Left="212" Top="1098" Right="278" Bottom="1152" />
+																																<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="TextView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_title" />
+																																	</Property>
+																																	<Property Name="ControlText">
+																																		<Value Value="Exit" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																															<Child Name="ImageView_apps_icon" Key="{543F9510-782C-48C1-A47B-882E8246FACB}">
+																																<Image FileName="1000730104" Left="52" Top="1063" Right="177" Bottom="1188" />
+																																<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="ImageView" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="apps_icon" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="ImageButton_fab_apps" Key="{C87490D8-1DFD-48C7-8898-C43EF9B5EE72}">
+																										<Image FileName="-1289621885" Left="440" Top="1670" Right="640" Bottom="1900" />
+																										<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageButton" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="fab_apps" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="Layout_NO_ID" Key="{AD211D22-2C2D-424A-A473-7AF6E91676DC}">
+																								<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Layout" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="NO_ID" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Layout_music_info_holder" Key="{5B5219F9-223D-45BF-9D21-01D72122CD86}">
+																										<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="music_info_holder" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="ImageView_music_app_icon" Key="{6CE60637-A053-48DF-B940-41C1DFB654F6}">
+																												<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="ImageView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="music_app_icon" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Layout_action_bar_container" Key="{830DE496-B360-4DB3-A539-4601FEA73048}">
+														<Image FileName="1333177396" Left="0" Top="0" Right="1080" Bottom="140" />
+														<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Layout" />
+															</Property>
+															<Property Name="ViewID">
+																<Value Value="action_bar_container" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Toolbar_action_bar" Key="{E1B274A4-0FC0-4F94-A907-06723BDDACF6}">
+																<Image FileName="1333177396" Left="0" Top="0" Right="1080" Bottom="140" />
+																<TypeInfo Item0="{1383F186-3176-4EA4-A60B-5F40C1B2001F}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Toolbar" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="action_bar" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Layout_NO_ID" Key="{72864507-9D13-4470-9BA3-C703738B7A79}">
+																		<Image FileName="1333177396" Left="180" Top="0" Right="940" Bottom="140" />
+																		<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Layout" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="NO_ID" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Layout_NO_ID" Key="{17F4F7F8-51E8-4A21-B6C1-A52F163B4638}">
+																				<Image FileName="1333177396" Left="180" Top="0" Right="940" Bottom="140" />
+																				<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Layout" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="NO_ID" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Layout_NO_ID" Key="{EF1269DA-4661-4854-921A-A8C6EB8A0FE1}">
+																						<Image FileName="1333177396" Left="180" Top="39" Right="601" Bottom="100" />
+																						<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Layout" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="NO_ID" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="TextView_Shortcuts" Key="{A7B5417E-DB8B-44D7-994B-6717AE857E1B}">
+																								<Image FileName="1333177396" Left="180" Top="39" Right="376" Bottom="100" />
+																								<TypeInfo Item0="{5FD63C6F-C540-4001-992A-D7104A3C2CED}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="TextView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="actionbar_title" />
+																									</Property>
+																									<Property Name="ControlText">
+																										<Value Value="Shortcuts" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="ImageButton_NO_ID" Key="{8AA261A3-AD98-4313-885B-2B2A630C1BA2}">
+																		<Image FileName="942630081" Left="0" Top="0" Right="140" Bottom="140" />
+																		<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="ImageButton" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="NO_ID" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="Layout_action_bar_root" Key="{6641E913-93E2-4E18-B3C4-9E00C0945097}">
+												<Image FileName="-175359751" Left="67" Top="670" Right="1013" Bottom="1369" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Layout" />
+													</Property>
+													<Property Name="ViewID">
+														<Value Value="action_bar_root" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Layout_content" Key="{6E73FC15-78C0-48C7-8980-304D9567C744}">
+														<Image FileName="-175359751" Left="67" Top="670" Right="1013" Bottom="1369" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Layout" />
+															</Property>
+															<Property Name="ViewID">
+																<Value Value="content" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="View_parentPanel" Key="{96155D87-39A5-476B-AA98-B6B3114A5FBD}">
+																<Image FileName="-175359751" Left="67" Top="670" Right="1013" Bottom="1369" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="View" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="parentPanel" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ScrollView_buttonPanel" Key="{6C450EF8-739F-4B87-A4CD-B69BC1C4704C}">
+																		<Image FileName="-175359751" Left="67" Top="944" Right="1013" Bottom="1369" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="ScrollView" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="buttonPanel" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Layout_NO_ID" Key="{292C7606-9ACE-4908-A47C-F386B55ABE98}">
+																				<Image FileName="-175359751" Left="67" Top="944" Right="1013" Bottom="1369" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Layout" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="NO_ID" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Button_Never" Key="{B4F9F456-B7CD-4480-B8A0-84D76C7550C5}">
+																						<Image FileName="-175359751" Left="813" Top="1224" Right="983" Bottom="1359" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Button" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="button3" />
+																							</Property>
+																							<Property Name="ControlText">
+																								<Value Value="Never" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Process_youtube_music" Key="{3AE8FE22-6544-485F-8933-96DB0045F4DE}">
+								<Properties>
+									<Property Name="ProcessName">
+										<Value Value="com.google.android.apps.youtube.music" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Layout_NO_ID" Key="{9E1CC6BE-E620-4945-AE77-6B11EC2946A8}">
+										<Image FileName="1377748081" Left="0" Top="0" Right="1080" Bottom="2160" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Layout" />
+											</Property>
+											<Property Name="ViewID">
+												<Value Value="NO_ID" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Layout_action_bar_root" Key="{67051E67-67E9-4317-B498-413197716F07}">
+												<Image FileName="1377748081" Left="0" Top="0" Right="1080" Bottom="2160" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Layout" />
+													</Property>
+													<Property Name="ViewID">
+														<Value Value="action_bar_root" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Layout_content" Key="{8796F69C-3693-4219-9687-19E58B73B3F8}">
+														<Image FileName="1377748081" Left="0" Top="0" Right="1080" Bottom="2160" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Layout" />
+															</Property>
+															<Property Name="ViewID">
+																<Value Value="content" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Layout_accessibility_layer_container" Key="{2D5C23ED-BA79-450B-9903-2F56E29EC87F}">
+																<Image FileName="1377748081" Left="0" Top="0" Right="1080" Bottom="2160" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Layout" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="accessibility_layer_container" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Layout_interstitials_container" Key="{447EAB7D-7747-49E6-9168-391D723F75B0}">
+																		<Image FileName="1377748081" Left="0" Top="0" Right="1080" Bottom="2160" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Layout" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="interstitials_container" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Layout_button_layout" Key="{02C45EE1-C68E-4F4D-87D8-8626CD14BFA8}">
+																				<Image FileName="1377748081" Left="335" Top="1800" Right="745" Bottom="2060" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Layout" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="button_layout" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Button_skip_button" Key="{D8859DA2-D5ED-4DB0-BAD2-9B71113E8609}">
+																						<Image FileName="1377748081" Left="335" Top="1930" Right="745" Bottom="2060" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Button" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="skip_button" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="Layout_main_layout_wrapper" Key="{82C0DEEF-BCB9-4358-BC56-15702FD47D82}">
+																		<Image FileName="1251434200" Left="0" Top="0" Right="1080" Bottom="2160" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Layout" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="main_layout_wrapper" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="View_mpp_watch_while_layout" Key="{DA6B1F9E-8B83-45E4-A54C-208868223C02}">
+																				<Image FileName="1251434200" Left="0" Top="0" Right="1080" Bottom="2160" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="mpp_watch_while_layout" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="View_coordinator_layout" Key="{16FC75C7-01CD-4FE9-AF69-DC168E84B129}">
+																						<Image FileName="1251434200" Left="0" Top="0" Right="1080" Bottom="2040" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="coordinator_layout" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Layout_browse_content" Key="{3E6D9FF5-B7EA-4BD0-B271-C3AA8D743DD9}">
+																								<Image FileName="1251434200" Left="0" Top="180" Right="1080" Bottom="2220" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Layout" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="browse_content" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Layout_tabbed_view" Key="{56AE0899-90CD-4678-9743-53856CA057B6}">
+																										<Image FileName="1251434200" Left="0" Top="180" Right="1080" Bottom="2220" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="tabbed_view" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="View_NO_ID" Key="{39ACC6AA-97EE-43AB-9B30-C82471D011E6}">
+																												<Image FileName="1251434200" Left="0" Top="180" Right="1080" Bottom="2220" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="View" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="NO_ID" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="View_NO_ID" Key="{F27570B5-D0D9-4010-8BA0-F6F26AA8FAE7}">
+																														<Image FileName="1251434200" Left="0" Top="180" Right="1080" Bottom="2220" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="View" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="NO_ID" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="View_section_list_content" Key="{61C86C5B-A724-49AB-8B8F-89253E40356D}">
+																																<Image FileName="1251434200" Left="0" Top="180" Right="1080" Bottom="2220" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="View" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="section_list_content" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="Layout_NO_ID" Key="{A11B4D48-4199-48E6-BC06-10608CD46A2C}">
+																																		<Image FileName="1251434200" Left="0" Top="468" Right="1080" Bottom="612" />
+																																		<Properties>
+																																			<Property Name="ObjectType">
+																																				<Value Value="Layout" />
+																																			</Property>
+																																			<Property Name="ViewID">
+																																				<Value Value="NO_ID" />
+																																			</Property>
+																																			<Property Name="Index">
+																																				<Value Value="3" Type="0" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="Layout_title_container" Key="{0624556C-5E6E-4366-B3FB-71FBD550B856}">
+																																				<Image FileName="1251434200" Left="0" Top="468" Right="940" Bottom="612" />
+																																				<Properties>
+																																					<Property Name="ObjectType">
+																																						<Value Value="Layout" />
+																																					</Property>
+																																					<Property Name="ViewID">
+																																						<Value Value="title_container" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="TextView_title" Key="{9F751DC4-47BA-4625-8968-701655432A01}">
+																																						<Image FileName="1251434200" Left="40" Top="498" Right="900" Bottom="582" />
+																																						<Properties>
+																																							<Property Name="ObjectType">
+																																								<Value Value="TextView" />
+																																							</Property>
+																																							<Property Name="ViewID">
+																																								<Value Value="title" />
+																																							</Property>
+																																						</Properties>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="Layout_tabbed_view_container" Key="{819BF25D-3B25-4C23-8F57-B053072AF4E1}">
+																										<Image FileName="1068729658" Left="0" Top="180" Right="1080" Bottom="2040" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="tabbed_view_container" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="Layout_tabbed_view" Key="{F625A4F0-0716-4472-90F4-E0DE5E3AB6A2}">
+																												<Image FileName="1068729658" Left="0" Top="180" Right="1080" Bottom="2040" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Layout" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="tabbed_view" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="View_NO_ID" Key="{5E62822C-1858-47BF-B87B-A870DCC192F9}">
+																														<Image FileName="1068729658" Left="0" Top="180" Right="1080" Bottom="2040" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="View" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="NO_ID" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="View_NO_ID" Key="{8DBC99ED-3F36-4BBF-ACFA-F1321567FBB0}">
+																																<Image FileName="1068729658" Left="0" Top="180" Right="1080" Bottom="2040" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="View" />
+																																	</Property>
+																																	<Property Name="ViewID">
+																																		<Value Value="NO_ID" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="View_section_list_content" Key="{3EBBBE71-508F-4AEB-BD45-FBF796A46EE8}">
+																																		<Image FileName="1068729658" Left="0" Top="180" Right="1080" Bottom="2040" />
+																																		<Properties>
+																																			<Property Name="ObjectType">
+																																				<Value Value="View" />
+																																			</Property>
+																																			<Property Name="ViewID">
+																																				<Value Value="section_list_content" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="Layout_swipe_layout" Key="{FD2D8691-E1D4-40B8-985A-9ACC54A8C98D}">
+																																				<Image FileName="1068729658" Left="0" Top="500" Right="1080" Bottom="660" />
+																																				<Properties>
+																																					<Property Name="ObjectType">
+																																						<Value Value="Layout" />
+																																					</Property>
+																																					<Property Name="ViewID">
+																																						<Value Value="swipe_layout" />
+																																					</Property>
+																																					<Property Name="Index">
+																																						<Value Value="3" Type="0" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="Layout_swipe_layout2" Key="{B02D3283-77E2-44DF-BB6B-FDA548F3D981}">
+																																				<Image FileName="1840470688" Left="0" Top="340" Right="1080" Bottom="500" />
+																																				<Properties>
+																																					<Property Name="ObjectType">
+																																						<Value Value="Layout" />
+																																					</Property>
+																																					<Property Name="ViewID">
+																																						<Value Value="swipe_layout" />
+																																					</Property>
+																																					<Property Name="Index">
+																																						<Value Value="2" Type="0" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="View_player_page" Key="{3F7B0F17-C95B-4AD6-BD39-2D457A7A4B54}">
+																						<Image FileName="-924873628" Left="0" Top="0" Right="1080" Bottom="2160" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="player_page" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Layout_music_playback_controls" Key="{954E1CA4-BE8B-4B4A-BFB0-4E5FEEE386D3}">
+																								<Image FileName="-924873628" Left="0" Top="1421" Right="1080" Bottom="1771" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Layout" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="music_playback_controls" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Layout_controls_container" Key="{E27DD852-6205-491E-94F1-D981ADA0CB3F}">
+																										<Image FileName="-924873628" Left="40" Top="1541" Right="1040" Bottom="1771" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="controls_container" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="Layout_NO_ID" Key="{64B809F6-7BBB-438A-971D-46E27F48994D}">
+																												<Image FileName="-924873628" Left="260" Top="1566" Right="820" Bottom="1746" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Layout" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="NO_ID" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="ImageView" Key="{04920F50-A2B1-4634-8F61-25F8B7C096E5}">
+																														<Image FileName="-924873628" Left="450" Top="1566" Right="630" Bottom="1746" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="ImageView" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="player_control_play_pause_replay_button" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="View_time_bar" Key="{F2559EAE-DFA2-46F5-9803-0E35CE820AB1}">
+																										<TypeInfo Item0="{93279500-8B63-4C53-9D0F-8400850CBFCB}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="time_bar" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Device" Owner="{1D5A3ABB-0751-48FF-89A8-A1297E809C88}">
+			<Child Name="Process_bitspice_automate" Owner="{DACD3955-D79D-4816-A52E-041952D3009C}">
+				<Child Name="Layout_NO_ID" Owner="{6AF70676-2291-4F03-8C9B-544E14156424}">
+					<Child Name="View_decor_content_parent" Owner="{9DDBECBB-680B-4793-8730-85B3B78644BF}">
+						<Child Name="Layout_content" Owner="{BB5B09B7-09C1-4C58-AC78-540759A596B1}">
+							<Child Name="View_coordinator_layout_slide" Owner="{F995A4BE-3C57-4785-A195-F2C180C3B512}">
+								<Child Name="Layout_navigation_view" Owner="{9DCED703-36F9-43BD-AC28-AF8BA80DE362}">
+									<Child Name="Layout_NO_ID" Owner="{A59295C9-AE05-4EF7-BB80-E1D35650D08B}">
+										<Child Name="ImageButton_button_next" Owner="{9C6DDA8D-8DAF-410A-93F8-7C1B697020A2}" />
+									</Child>
+								</Child>
+							</Child>
+							<Child Name="View_drawer_layout" Owner="{233690D0-90ED-44AA-9199-0F18DB17D42E}">
+								<Child Name="Layout_NO_ID" Owner="{7A32818E-4333-45A3-B272-6C741E5B4281}">
+									<Child Name="Layout_bottom_navigation" Owner="{14C251A7-82E0-4E3F-B197-105A4DEE677D}">
+										<Child Name="Layout_NO_ID" Owner="{A509129F-D3E0-4E18-998C-CECED8D8D756}">
+											<Child Name="ImageView_bottom_navigation_small_item_icon" Owner="{021203C9-0EDF-449E-ADA8-1FCACC034A11}" />
+											<Child Name="ImageView_bottom_navigation_small_item_icon2" Owner="{7EFCB377-BA20-4F9F-A138-AE90EAB7135B}" />
+											<Child Name="ImageView_bottom_navigation_small_item_icon3" Owner="{9049E5E4-9747-4574-A82C-5CE464790A73}" />
+											<Child Name="ImageView_bottom_navigation_small_item_icon4" Owner="{3AD85190-9155-44BB-BBFE-AD1C75DE28A9}" />
+											<Child Name="ImageView_bottom_navigation_small_item_icon5" Owner="{3119A22E-49C5-4127-98B1-188A270A8B0C}" />
+										</Child>
+									</Child>
+									<Child Name="View_main_content" Owner="{4914036D-FD7E-4837-ABC9-9D67948C8883}">
+										<Child Name="View_view_pager" Owner="{4083933A-2E5E-4291-BA7D-1434A1E6E8E8}">
+											<Child Name="View_NO_ID" Owner="{D0607481-11CB-43FE-B425-E51EC56F75E5}">
+												<Child Name="Layout_phone_top_bar_cardview" Owner="{0F13F7F7-44E3-41EA-A3E0-C5C0F5E41FC7}">
+													<Child Name="HorizontalScrollView_phone_search_tabs" Owner="{2CCE2602-ABDC-49C8-BA69-57406690DDE1}">
+														<Child Name="ImageView_NO_ID" Owner="{5E658833-0DB9-4D32-A67E-1C4AF6DB2065}" />
+														<Child Name="ImageView_NO_ID2" Owner="{B3D4801D-F2FA-4079-81CF-B3CA049C4AE4}" />
+													</Child>
+													<Child Name="View_phone_viewpager" Owner="{5CC1297C-D243-4D7A-9C32-7399A8D38E0A}">
+														<Child Name="Layout_phone_list_container" Owner="{A740FA57-3BCC-42E7-AD7F-D99F3D0B49BD}">
+															<Child Name="View_phone_list" Owner="{DBA0EED2-793A-42B4-862D-EAB51D940033}">
+																<Child Name="Layout_contacts_holder" Owner="{E28C0978-4CFE-4D17-8D62-9C3192062A79}">
+																	<Child Name="Layout_NO_ID" Owner="{05249C0D-3355-44A2-BD42-4FC3065C8ED4}">
+																		<Child Name="TextView_111" Owner="{149CA0B9-1345-46B1-85A8-EED53DA6DE9F}" />
+																		<Child Name="TextView_Permissions_required" Owner="{0FA9623B-3C6E-4746-B996-3AC15E8E410A}" />
+																	</Child>
+																</Child>
+															</Child>
+														</Child>
+														<Child Name="Layout_phone_list_container2" Owner="{AF9092F0-3BDF-491C-A6A4-730726FB2396}">
+															<Child Name="View_phone_list" Owner="{B693D038-8BEB-4FA6-9E18-32B7999F7F15}">
+																<Child Name="Layout_contacts_holder" Owner="{40E61386-3F72-4032-9262-C59216EE47A8}">
+																	<Child Name="Layout_NO_ID" Owner="{98C99C9D-2463-4F33-85E2-F4E9D8A83BA4}">
+																		<Child Name="TextView_Tap_to_load_contacts" Owner="{1DF025AF-7630-4967-802B-1B442BE2697A}" />
+																	</Child>
+																</Child>
+															</Child>
+														</Child>
+													</Child>
+													<Child Name="ImageView_phone_button_call" Owner="{362AFA3E-5FFB-42BA-A3A0-2C7A54CFEA9C}" />
+													<Child Name="EditText_phone_dialer_eidttext" Owner="{AFE3E9B6-EA3E-44C0-AAA3-97D62FA33F63}" />
+												</Child>
+												<Child Name="ImageButton_phone_button_dialer" Owner="{0C158514-B4DE-4B78-A965-9BEBDB9BFED0}" />
+											</Child>
+											<Child Name="View_NO_ID2" Owner="{04FA0F14-1D75-4297-B4EF-29E41EE0C4D1}">
+												<Child Name="Layout_shortcuts_list_holder" Owner="{FE36D438-4609-4ADC-B5AA-1A96028C09FA}">
+													<Child Name="View_shortcuts_recyclerview" Owner="{D971AEE8-755F-4FA9-8403-1B4F8632B431}">
+														<Child Name="Layout_apps_container" Owner="{D95E58DF-0EF6-4A4E-B5E3-1FA2286488C4}">
+															<Child Name="TextView_Calendar" Owner="{E4DC5E9E-911B-4FAD-9E88-95FF5F6E740A}" />
+															<Child Name="ImageView_apps_icon" Owner="{CD873522-51C5-4C4F-A2A1-94C838D3E86C}" />
+														</Child>
+														<Child Name="Layout_apps_container2" Owner="{F32985F9-3B3F-460F-9F26-05DB2366D5FB}">
+															<Child Name="TextView_Google_Play_Music" Owner="{E87EBD2E-2DCA-455D-9AE1-68ED4DAE3142}" />
+														</Child>
+														<Child Name="Layout_apps_container3" Owner="{D127D4CA-919B-4EF5-BEB9-CE6523799556}">
+															<Child Name="TextView_Maps" Owner="{BAB8AF15-0AD3-4978-A12E-9FA3C55389D8}" />
+															<Child Name="ImageView_apps_icon" Owner="{1CEFAEC8-6C25-4E9B-A564-C679CBC22CC2}" />
+														</Child>
+														<Child Name="Layout_apps_container4" Owner="{9764B6F9-8943-44CE-B0F0-4028AF8739F9}">
+															<Child Name="TextView_Volume_Up" Owner="{1D05A4BD-C769-4B82-9E30-F7377B9D4F3C}" />
+															<Child Name="ImageView_apps_icon" Owner="{ECFD9181-8B2F-4AEA-A36B-5D7A1AFB7E29}" />
+														</Child>
+														<Child Name="Layout_apps_container5" Owner="{5A2A898F-7D5D-4209-B33C-6B6F8A3A55C8}">
+															<Child Name="TextView_Volume_Down" Owner="{BAD12A93-1C69-4166-9F1D-04FE16248D4D}" />
+															<Child Name="ImageView_apps_icon" Owner="{D05E48FE-DC90-4F23-8201-98CEFD746028}" />
+														</Child>
+														<Child Name="Layout_apps_container6" Owner="{9634C9E3-54E8-4365-B6FA-669AB4DE4219}">
+															<Child Name="TextView_Exit" Owner="{BCEDDA9A-FE4D-4DDD-9587-5FAADBFBCAE7}" />
+															<Child Name="ImageView_apps_icon" Owner="{543F9510-782C-48C1-A47B-882E8246FACB}" />
+														</Child>
+													</Child>
+												</Child>
+												<Child Name="ImageButton_fab_apps" Owner="{C87490D8-1DFD-48C7-8898-C43EF9B5EE72}" />
+											</Child>
+											<Child Name="Layout_NO_ID" Owner="{AD211D22-2C2D-424A-A473-7AF6E91676DC}">
+												<Child Name="Layout_music_info_holder" Owner="{5B5219F9-223D-45BF-9D21-01D72122CD86}">
+													<Child Name="ImageView_music_app_icon" Owner="{6CE60637-A053-48DF-B940-41C1DFB654F6}" />
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="Layout_action_bar_container" Owner="{830DE496-B360-4DB3-A539-4601FEA73048}">
+							<Child Name="Toolbar_action_bar" Owner="{E1B274A4-0FC0-4F94-A907-06723BDDACF6}">
+								<Child Name="Layout_NO_ID" Owner="{72864507-9D13-4470-9BA3-C703738B7A79}">
+									<Child Name="Layout_NO_ID" Owner="{17F4F7F8-51E8-4A21-B6C1-A52F163B4638}">
+										<Child Name="Layout_NO_ID" Owner="{EF1269DA-4661-4854-921A-A8C6EB8A0FE1}">
+											<Child Name="TextView_Shortcuts" Owner="{A7B5417E-DB8B-44D7-994B-6717AE857E1B}" />
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="ImageButton_NO_ID" Owner="{8AA261A3-AD98-4313-885B-2B2A630C1BA2}" />
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="Layout_action_bar_root" Owner="{6641E913-93E2-4E18-B3C4-9E00C0945097}">
+						<Child Name="Layout_content" Owner="{6E73FC15-78C0-48C7-8980-304D9567C744}">
+							<Child Name="View_parentPanel" Owner="{96155D87-39A5-476B-AA98-B6B3114A5FBD}">
+								<Child Name="ScrollView_buttonPanel" Owner="{6C450EF8-739F-4B87-A4CD-B69BC1C4704C}">
+									<Child Name="Layout_NO_ID" Owner="{292C7606-9ACE-4908-A47C-F386B55ABE98}">
+										<Child Name="Button_Never" Owner="{B4F9F456-B7CD-4480-B8A0-84D76C7550C5}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="Process_youtube_music" Owner="{3AE8FE22-6544-485F-8933-96DB0045F4DE}">
+				<Child Name="Layout_NO_ID" Owner="{9E1CC6BE-E620-4945-AE77-6B11EC2946A8}">
+					<Child Name="Layout_action_bar_root" Owner="{67051E67-67E9-4317-B498-413197716F07}">
+						<Child Name="Layout_content" Owner="{8796F69C-3693-4219-9687-19E58B73B3F8}">
+							<Child Name="Layout_accessibility_layer_container" Owner="{2D5C23ED-BA79-450B-9903-2F56E29EC87F}">
+								<Child Name="Layout_interstitials_container" Owner="{447EAB7D-7747-49E6-9168-391D723F75B0}">
+									<Child Name="Layout_button_layout" Owner="{02C45EE1-C68E-4F4D-87D8-8626CD14BFA8}">
+										<Child Name="Button_skip_button" Owner="{D8859DA2-D5ED-4DB0-BAD2-9B71113E8609}" />
+									</Child>
+								</Child>
+								<Child Name="Layout_main_layout_wrapper" Owner="{82C0DEEF-BCB9-4358-BC56-15702FD47D82}">
+									<Child Name="View_mpp_watch_while_layout" Owner="{DA6B1F9E-8B83-45E4-A54C-208868223C02}">
+										<Child Name="View_coordinator_layout" Owner="{16FC75C7-01CD-4FE9-AF69-DC168E84B129}">
+											<Child Name="Layout_browse_content" Owner="{3E6D9FF5-B7EA-4BD0-B271-C3AA8D743DD9}">
+												<Child Name="Layout_tabbed_view" Owner="{56AE0899-90CD-4678-9743-53856CA057B6}">
+													<Child Name="View_NO_ID" Owner="{39ACC6AA-97EE-43AB-9B30-C82471D011E6}">
+														<Child Name="View_NO_ID" Owner="{F27570B5-D0D9-4010-8BA0-F6F26AA8FAE7}">
+															<Child Name="View_section_list_content" Owner="{61C86C5B-A724-49AB-8B8F-89253E40356D}">
+																<Child Name="Layout_NO_ID" Owner="{A11B4D48-4199-48E6-BC06-10608CD46A2C}">
+																	<Child Name="Layout_title_container" Owner="{0624556C-5E6E-4366-B3FB-71FBD550B856}">
+																		<Child Name="TextView_title" Owner="{9F751DC4-47BA-4625-8968-701655432A01}" />
+																	</Child>
+																</Child>
+															</Child>
+														</Child>
+													</Child>
+												</Child>
+												<Child Name="Layout_tabbed_view_container" Owner="{819BF25D-3B25-4C23-8F57-B053072AF4E1}">
+													<Child Name="Layout_tabbed_view" Owner="{F625A4F0-0716-4472-90F4-E0DE5E3AB6A2}">
+														<Child Name="View_NO_ID" Owner="{5E62822C-1858-47BF-B87B-A870DCC192F9}">
+															<Child Name="View_NO_ID" Owner="{8DBC99ED-3F36-4BBF-ACFA-F1321567FBB0}">
+																<Child Name="View_section_list_content" Owner="{3EBBBE71-508F-4AEB-BD45-FBF796A46EE8}">
+																	<Child Name="Layout_swipe_layout" Owner="{FD2D8691-E1D4-40B8-985A-9ACC54A8C98D}" />
+																	<Child Name="Layout_swipe_layout2" Owner="{B02D3283-77E2-44DF-BB6B-FDA548F3D981}" />
+																</Child>
+															</Child>
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+										<Child Name="View_player_page" Owner="{3F7B0F17-C95B-4AD6-BD39-2D457A7A4B54}">
+											<Child Name="Layout_music_playback_controls" Owner="{954E1CA4-BE8B-4B4A-BFB0-4E5FEEE386D3}">
+												<Child Name="Layout_controls_container" Owner="{E27DD852-6205-491E-94F1-D981ADA0CB3F}">
+													<Child Name="Layout_NO_ID" Owner="{64B809F6-7BBB-438A-971D-46E27F48994D}">
+														<Child Name="ImageView" Owner="{04920F50-A2B1-4634-8F61-25F8B7C096E5}" />
+													</Child>
+												</Child>
+												<Child Name="View_time_bar" Owner="{F2559EAE-DFA2-46F5-9803-0E35CE820AB1}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
